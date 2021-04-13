@@ -5,9 +5,9 @@ My final year project where I bulid a carpooling application for UM students usi
 
 <p align="center">
   <br>
-  <img  width="200" src="./resources/ss/ss4.png" alt="ui">
-  <img  width="200" src="./resources/ss/ss1.png" alt="ui2">
-  <img  width="200" src="./resources/ss/ss2.png" alt="ui3">
-  <img  width="200" src="./resources/ss/ss3.png" alt="ui4">
+  <img  width="200" src="./resources/ss/ss4.PNG" alt="ui">
+  <img  width="200" src="./resources/ss/ss1.PNG" alt="ui2">
+  <img  width="200" src="./resources/ss/ss2.PNG" alt="ui3">
+  <img  width="200" src="./resources/ss/ss3.PNG" alt="ui4">
   <br>
 </p>
