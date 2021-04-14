@@ -1,7 +1,7 @@
 # um_carpool
 My final year project where I bulid a carpooling application for UM students using Ionic framework and Firebase.
 
-##UI
+## UI
 
 <p align="center">
   <br>
